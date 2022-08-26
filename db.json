@@ -1,0 +1,11 @@
+{
+    "checkout":[
+        {
+        "id" : 1,
+        "fullName": "Huynh Quoc Chuong",
+        "userName" : "talachuong",
+        "email" : "talachuong@gmail.com",
+        "address" : " Thon 3 Nam Yang , Dak Doa , Gia Lai"
+        }
+    ]
+}
